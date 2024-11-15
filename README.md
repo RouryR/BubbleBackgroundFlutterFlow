@@ -1,7 +1,7 @@
 # BubbleBackgroundFlutterFlow
 The BubbleBG widget is a customizable Flutter background effect that generates dynamic, floating bubbles in various colors and sizes. It's ideal for adding an animated
 
-import 'dart:math';
+'''import 'dart:math';
 
 class BubbleBG extends StatefulWidget {
   const BubbleBG({
@@ -151,4 +151,4 @@ class BubblePainter extends CustomPainter {
   @override
   bool shouldRepaint(covariant CustomPainter oldDelegate) => true;
 }
-
+'''
